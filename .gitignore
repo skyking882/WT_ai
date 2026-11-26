@@ -1,0 +1,11 @@
+build/
+out/
+__pycache__/
+*.pyc
+*.obj
+*.lib
+*.exe
+*.dll
+*.pdb
+generator/data/*
+!generator/data/README.txt
